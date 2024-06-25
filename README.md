@@ -10,3 +10,5 @@ meu nome é matheus duarte salvador
   ### voce pode entrar em  contato comigo
 -  atraves do  📫 
 - 00001087239837SP@al.educacao.sp.gov.br
+
+![](https://media1.tenor.com/m/Tgi1zNdd-WgAAAAC/escudo-pulsando.gif)
