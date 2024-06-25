@@ -1,4 +1,4 @@
-## Hi there 👋
+## seja bem vindo 👋
 
 meu nome é matheus duarte salvador
 
@@ -7,7 +7,7 @@ meu nome é matheus duarte salvador
 - utilizo esse espaço para compartilhar meus progetos 
 
 
-  ### voce pode entrar em  contato comigo
+  ### voce pode entrar em  contato comigo 🖤
 -  atraves do  📫 
 - 00001087239837SP@al.educacao.sp.gov.br
 
