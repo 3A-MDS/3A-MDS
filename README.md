@@ -2,7 +2,7 @@
 
 meu nome é matheus duarte salvador
 
-- estou estudando no alura
+- estou estudando no [alura](https://www.alura.com.br/)
 - estou aprendendo um pouco de JavaScript
 - utilizo esse espaço para compartilhar meus progetos 
 
